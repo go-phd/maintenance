@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
+
+ADD_SUBDIRECTORY(alifpga_hw_status)
+ADD_SUBDIRECTORY(alifpga_hw_upgrade)

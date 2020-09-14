@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/maintenance/inc/csd_maintenance.h
+algorithm
+-
+iostream
+-
+stdint.h
+-
+string
+-
+algorithm
+-
+
+/media/sf_project/maintenance/code/maintenance/apps/bin/alifpga_hw_upgrade/src/alifpga_hw_upgrade.cpp
+gflags/gflags.h
+-
+iostream
+-
+string
+-
+csd_maintenance.h
+/media/sf_project/maintenance/code/maintenance/apps/bin/alifpga_hw_upgrade/src/csd_maintenance.h
+

@@ -1,0 +1,5 @@
+/media/sf_code/maintenance/build/apps/sbin/alifpga_hw_monitor/CMakeFiles/alifpga_hw_monitor.dir
+/media/sf_code/maintenance/build/apps/bin/alifpga_hw_status/CMakeFiles/alifpga_hw_status.dir
+/media/sf_code/maintenance/build/apps/bin/alifpga_hw_upgrade/CMakeFiles/alifpga_hw_upgrade.dir
+/media/sf_code/maintenance/build/libs/maintenance/CMakeFiles/csd_maintenance.dir
+/media/sf_code/maintenance/build/libs/maintenance/CMakeFiles/csd_maintenance_static.dir
